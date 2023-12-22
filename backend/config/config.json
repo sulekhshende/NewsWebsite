@@ -1,0 +1,17 @@
+{
+  "development": {
+    "username": "sunbeam",
+    "password": "sunbeam",
+    "database": "newssite",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "admin",
+    "password": "Sulekh10",
+    "database": "newssite",
+    "host": "database-1.cl58svcimw55.us-east-1.rds.amazonaws.com",
+    "port": 3306,
+    "dialect": "mysql"
+  }
+}
